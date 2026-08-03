@@ -1,5 +1,8 @@
 # devtools-angels
 
+# this repo is archived, go to https://github.com/conorbronsdon/ai-angels
+
+--- 
 Active angel investors in developer tools! 
 
 There is **no particular order** here but we aim to be high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
